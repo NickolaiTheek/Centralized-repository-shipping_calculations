@@ -1,4 +1,5 @@
  # Here is a new update by NickolaiTheek
+# Here is another update by NickolaiTheek
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
